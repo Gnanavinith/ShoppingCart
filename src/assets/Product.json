@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Burger",
+      "amt": 5.99,
+      "shop": "Burger Town",
+      "ftype": "Fast Food",
+      "pic": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "amt": 8.99,
+      "shop": "Pizza Planet",
+      "ftype": "Fast Food",
+      "pic": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+    },
+    {
+      "id": 3,
+      "name": "Sushi",
+      "amt": 12.99,
+      "shop": "Sushi Spot",
+      "ftype": "Japanese",
+      "pic": "https://images.pexels.com/photos/10545856/pexels-photo-10545856.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Pasta",
+      "amt": 10.49,
+      "shop": "Pasta House",
+      "ftype": "Italian",
+      "pic": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+    },
+    {
+      "id": 5,
+      "name": "Taco",
+      "amt": 3.99,
+      "shop": "Taco Town",
+      "ftype": "Mexican",
+      "pic": "https://images.pexels.com/photos/1282210/pexels-photo-1282210.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Salad",
+      "amt": 6.99,
+      "shop": "Green Leaf",
+      "ftype": "Healthy",
+      "pic": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    },
+    {
+      "id": 7,
+      "name": "Steak",
+      "amt": 15.99,
+      "shop": "Steak House",
+      "ftype": "American",
+      "pic": "https://images.pexels.com/photos/3616953/pexels-photo-3616953.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Falafel",
+      "amt": 4.99,
+      "shop": "Falafel King",
+      "ftype": "Middle Eastern",
+      "pic": "https://images.pexels.com/photos/3887982/pexels-photo-3887982.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Ram hello iam vinith How are you",
+      "amt": 9.99,
+      "shop": "Ramen House",
+      "ftype": "Japanese",
+      "pic": "https://images.pexels.com/photos/2427401/pexels-photo-2427401.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Sandwich",
+      "amt": 5.49,
+      "shop": "Sandwich Shop",
+      "ftype": "Fast Food",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Ice Cream",
+      "amt": 2.99,
+      "shop": "Sweet Treats",
+      "ftype": "Dessert",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Dumplings",
+      "amt": 7.49,
+      "shop": "Dumpling House",
+      "ftype": "Chinese",
+      "pic": "https://images.pexels.com/photos/10403930/pexels-photo-10403930.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Curry",
+      "amt": 11.49,
+      "shop": "Curry Corner",
+      "ftype": "Indian",
+      "pic": "https://images.pexels.com/photos/414904/pexels-photo-414904.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Fries",
+      "amt": 2.99,
+      "shop": "Fries & Co.",
+      "ftype": "Fast Food",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "BBQ Ribs",
+      "amt": 13.99,
+      "shop": "BBQ Pit",
+      "ftype": "American",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Pad Thai",
+      "amt": 9.49,
+      "shop": "Thai Delight",
+      "ftype": "Thai",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Bagel",
+      "amt": 1.99,
+      "shop": "Bagel Shop",
+      "ftype": "Bakery",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Smoothie",
+      "amt": 4.49,
+      "shop": "Smoothie World",
+      "ftype": "Healthy",
+      "pic": "https://images.pexels.com/photos/684965/pexels-photo-684965.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Crepe",
+      "amt": 6.49,
+      "shop": "Crepe Corner",
+      "ftype": "Dessert",
+      "pic": "https://images.unsplash.com/photo-1527515545081-5db817172677"
+    },
+    {
+      "id": 20,
+      "name": "Pancakes",
+      "amt": 5.99,
+      "shop": "Breakfast Club",
+      "ftype": "Breakfast",
+      "pic": "https://images.pexels.com/photos/3756523/pexels-photo-3756523.jpeg"
+    }
+  ]
+  

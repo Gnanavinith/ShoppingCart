@@ -1,0 +1,51 @@
+.Product{
+    
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+  
+    
+  
+}
+
+
+.Product img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.Product Details{
+    padding: 10px;
+   
+   
+}
+
+.Product button{
+    background-color: lightcoral;
+    border: none;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.RemoveCart{
+    background-color: rgb(255, 66, 66) !important;
+  
+}
+.Product h2{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    
+}
+
+.Details {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+  
+    
+  }
+  
